@@ -1,0 +1,7 @@
+front/.DS_Store
+front/node_modules/
+front/dist/
+front/npm-debug.log
+back/env
+*.pyc
+*.out
